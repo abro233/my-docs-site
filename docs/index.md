@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Welcome to My Portfolio
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hi, I'm Ashby Brown, and I'm a Technical Writer.
 
-## Commands
+## Skills
+- Technical Writing
+- Markdown
+- Confluence
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Featured Projects
+- [Google Drive Recovery](google-drive-recovery.md)  <!-- Use relative path or actual URL -->
+- [User Test Report](User-Test-Report.md)  <!-- Use relative path or actual URL -->
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Let's Work Together
+Feel free to [contact me](mailto:ashbywbrown@gmail.com) for collaboration or inquiries.
